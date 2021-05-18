@@ -15,5 +15,5 @@ func mapURLs() {
 	//mapping handlers with endpoint
 	logging.Infof("Mapping endpoints with handlers")
 
-	// server.POST("send/mail", handler.MailHandler)
+	// server.POST("url-path", handlerfunction())
 }
